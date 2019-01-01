@@ -1,0 +1,24 @@
+Amount 	Ingredient (Click ingredient for more recipes)	
+1 Measure	De Kuyper Creme De Bananes
+0.5 Measure	De Kuyper Apricot Brandy
+0.5 Measure	De Kuyper Cherry Brandy
+1 Measure	Pineapple Juice
+1 Measure	Orange Juice
+Liquid volume = 100ml*
+Alcoholic units = 1*
+Alcohol by volume (ABV) = 12.0%*
+* Please note: Volume, units and ABV values are approximations only.
+in-the-spirit classifies one shot as a measure of 2.5cl or 25ml
+Method:
+Shake all the ingredients together in a cocktail shaker with ice. Strain into Martini glass. Garnish with a slice of banana.
+Additional notes:
+No additional notes for Banana Boomer
+	
+Garnish:
+No garnish
+Type/Flavour:
+Sweet
+Glass:
+Martini
+Difficulty:
+Medium
